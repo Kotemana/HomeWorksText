@@ -1,0 +1,23 @@
+﻿{
+	Girls:[
+	{
+		name: "Masha",
+		location: "Sauana",
+		price: {
+			Top: 10,
+			Classic: 30,
+			Back: 40
+		}
+	},
+		{
+		name: "Anjelina",
+		location: "Hotel",
+		price: {
+			Top: 15,
+			Classic: 35,
+			Back: 10
+		}
+	}
+
+	]
+}
